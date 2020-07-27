@@ -1,0 +1,62 @@
+html {
+    background: url("https://4k-wallpaper.com/3840x2160/4k-Ultra-HD_00216.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+#big_div {
+    color: rgb(224, 255, 112);
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#title {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'verdana';
+    color: navy;
+    text-align: center;
+}
+
+#first_passion {
+    color: navy;
+    font-size: 17px;
+    width: 300px;
+    margin-left: 150px;
+    padding: 5px;
+    text-align: center;
+    font-family:'Segoe UI';
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+#second_passion {
+    color: navy;
+    font-size: 17px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: 100px;
+    padding: 5px;
+    text-align: center;
+    font-family: "segoe UI";
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#code {
+    width: 450px;
+    margin-left: 550px;
+}
+
+#nature {
+    width: 400px;
+    margin-bottom: 50px;
+}

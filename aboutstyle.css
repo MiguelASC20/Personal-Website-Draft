@@ -1,0 +1,78 @@
+html {
+    background: url("https://oneworldbrewing.com/wp-content/uploads/2016/10/blue-ridge-mts.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+#big_div {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#title {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'verdana';
+    color: navy;
+    text-align: center;
+}
+
+#one_interesting {
+    color: rgb(25, 255, 244);
+    font-size: 17px;
+    width: 300px;
+    margin-left: 170px;
+    padding: 5px;
+    text-align: center;
+    font-family: "segoe UI";
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+#two_interesting {
+    color: rgb(25, 255, 244);
+    font-size: 17px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: 100px;
+    padding: 5px;
+    text-align: center;
+    font-family: "segoe UI";
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#three_interesting {
+    color: rgb(25, 255, 244);
+    font-size: 17px;
+    width: 300px;
+    margin-left: 170px;
+    padding: 5px;
+    text-align: center;
+    font-family: "segoe UI";
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#family {
+    width: 350px;
+    margin-top: 50px;
+}
+
+#help {
+    width: 350px;
+    margin-bottom: 50px;
+}
+
+#pokemon {
+    width: 200px;
+    margin-bottom: 50px;
+}

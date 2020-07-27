@@ -1,0 +1,67 @@
+html {
+    background: url("https://wallpaperaccess.com/full/345171.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+#big_div {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#title {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'verdana';
+    color: navy;
+    text-align: center;
+}
+
+#small_bio {
+    font-size: 18px;
+    color: #60A3D9;
+    width: 300px;
+    margin-left: 175px;
+    padding: 5px;
+    text-align: center;
+    font-family:'Segoe UI';
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: flex-end;
+}
+
+#more_bio {
+    font-size: 18px;
+    color: #60A3D9;
+    width: 300px;
+    text-align: center;
+    font-family: 'Segoe UI';
+    margin-left: 650px;
+    margin-top: 150px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+p {
+    color: #60A3D9;
+    font-size: 18px;
+}
+
+#allstarcode {
+    width: 400px;
+    margin-left: 500px;
+}
+
+#helppeople {
+    width: 400px;
+    margin-bottom: 100px;
+}
